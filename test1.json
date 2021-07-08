@@ -1,6 +1,7 @@
 {
-    "bookSourceGroup": "Jason,单独",
-    "bookSourceName": "3Q读书",
+{
+    "bookSourceGroup": "Jason,鍗曠嫭",
+    "bookSourceName": "3Q璇讳功",
     "bookSourceUrl": "https://3qdu.com",
     "enable": true,
     "httpUserAgent": "",
@@ -16,19 +17,19 @@
     "ruleChapterUrl": "",
     "ruleChapterUrlNext": "",
     "ruleContentUrl": "//@href",
-    "ruleContentUrlNext": "//a[text()=\"下一页\"]/@href",
+    "ruleContentUrlNext": "//a[text()=\"涓嬩竴椤礬"]/@href",
     "ruleCoverUrl": "//*[@property=\"og:image\"]/@content",
     "ruleFindUrl": "",
     "ruleIntroduce": "//*[@property=\"og:description\"]/@content",
     "ruleSearchAuthor": "",
     "ruleSearchCoverUrl": "//dt//img/@_src",
     "ruleSearchKind": "//dt/span/text()",
-    "ruleSearchLastChapter": "//dd[text()=\"最新章节：\"]/a/text()",
+    "ruleSearchLastChapter": "//dd[text()=\"鏈�鏂扮珷鑺傦細\"]/a/text()",
     "ruleSearchList": "//*[@id=\"sitebox\"]/dl",
     "ruleSearchName": "//h3/a/text()",
     "ruleSearchNoteUrl": "//h3/a/@href",
     "ruleSearchUrl": "/search.php?searchkey=searchKey&page=searchPage|char=gbk",
     "serialNumber": 3,
     "weight": 0
-  },
-
+  }
+}
