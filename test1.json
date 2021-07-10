@@ -28,7 +28,7 @@
     "ruleSearchList": "//tr[@id=\"nr\"]",
     "ruleSearchName": "//td[1]/a/text()",
     "ruleSearchNoteUrl": "//td[1]/a/@href",
-    "ruleSearchUrl": "http://www.3qdu.com/modules/article/search.php?searchtype=articlename&searchkey=%s&page=searchPage|char=gbk",
+    "ruleSearchUrl": "http://www.3qdu.com/modules/article/search.php?searchtype=articlename&searchkey=searchkey&page=searchPage-1|char=gbk",
     "serialNumber": 4,
     "weight": 0
  }
